@@ -6,7 +6,7 @@ TODO - Explain what a physical quantity is, and what a unit of measure is.  Expl
 
 TODO - Explain how I handled the conversion formula, and how the `new unit = f(metric unit)` thing works.
 
-TODO - Explain how the [NIST](http://www.nist.gov) guidelines are the starting place for all our conversions.
+In the United States, the standards body for measurement is NIST, and they've published [NIST Special Publication 1038 "The International System of Units (SI) - Conversion factors for General Use"](http://www.nist.gov/pml/wmd/metric/upload/SP1038.pdf).  This guide contains the approved conversion factors between various units and the base SI units.  Where possible, we adhere strictly to the conversion factors laid out by this organization.
 
 # High-Level Document Format Definition
 - [Version 1](docs/high_level_doc_v1.md)
