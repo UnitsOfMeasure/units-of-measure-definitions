@@ -1,0 +1,14 @@
+# Editors and IDEs
+/.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Windows image file caches
+Thumbs.db
+
+# Mac folder view config
+.DS_Store
+Desktop.ini
+
+# Vagrant files
+/.vagrant/
